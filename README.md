@@ -4,7 +4,9 @@
 ### :scroll: Summary
 
 A **Machine Learning Engineer** :space_invader:, slowly but steadily migrating to **Data Engineering** and **Backend Programming**. A Data Enthuasiast, ready to learn new technologies [tools, frameworks, languages]. 
+
 🎓 MSc in Computer Engineering
+
 🔭 I’m currently working as an **Applied Research Associate** in *JPMorgan Chase & Co*. .
 
 
