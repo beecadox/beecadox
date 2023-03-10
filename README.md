@@ -3,7 +3,7 @@
 
 ### :scroll: Summary
 
-A **Machine Learning Engineer** :space_invader:, slowly but steadily migrating to **Data Engineering** and **Backend Programming**. A Data Enthuasiast, ready to learn new technologies [tools, frameworks, languages]. 
+A **Machine Learning Engineer** :space_invader:, slowly but steadily starting my journey in **Data Engineering** and **Backend Programming**. Ultimate goal: Becoming **MLOPS Specialist**. A Data Enthuasiast, ready to learn new technologies [tools, frameworks, languages]. 
 
 🎓 MSc in Computer Engineering
 
@@ -21,4 +21,4 @@ A **Machine Learning Engineer** :space_invader:, slowly but steadily migrating t
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,regex,flask,django,vscode,cs,ts,sqlite,mongodb,mysql,matlab,unity&perline=7)](https://skillicons.dev)
 
 
-🌱 I’m currently learning PostgreSQL, and diving deeper into the world of Django.
+🌱 I’m currently learning for to use Azure, and diving deeper into the world of Python Backend Programming.
