@@ -3,24 +3,29 @@
 
 ### :scroll: Summary
 
-A **Machine Learning Engineer** :space_invader:, slowly but steadily starting my journey in **Data Engineering** and **Backend Programming**. A Data Enthuasiast, ready to learn new technologies [tools, frameworks, languages]. 
+A former **Machine Learning Engineer** :space_invader:, slowly but steadily starting my journey in **Software Engineering**. A Tech Enthuasiast, ready to learn new technologies [tools, frameworks, languages]. 
 
 Ultimate goal: Becoming an **MLOPs Engineer**.
 
-🎓 MSc in Computer Engineering
+🎓 Integrated MSc in Computer Engineering and Informatics
 
-🔭 I’m currently working as an **Applied Research Associate** in *JPMorgan Chase & Co*. .
+🔭 I’m currently working as a **Java Software Engineer** in *JPMorgan Chase & Co*. .
 
 
 ### :mag_right: How to reach me:
-<a href="https://linkedin.com/in/magdalenakrzesniak/" title="LinkedIn"><img src="https://github.com/beecadox/beecadox/blob/main/images/linkedin.svg" width=10% height=10%></a>
-<a href="https://beecadox.github.io/" title="Website"><img src="https://github.com/beecadox/beecadox/blob/main/images/website.svg" width=10% height=10%></a>
-<a href="mailto:krzesniakmagda@gmail.com" title="Mail"><img src="https://github.com/beecadox/beecadox/blob/main/images/mail.svg" width=10% height=10%></a>
+<a href="https://linkedin.com/in/magdalenakrzesniak/" title="LinkedIn"><img src="https://github.com/beecadox/beecadox/blob/main/images/linkedin.svg" width=7% height=7%></a>
+<a href="https://beecadox.github.io/" title="Website"><img src="https://github.com/beecadox/beecadox/blob/main/images/website.svg" width=7% height=7%></a>
+<a href="mailto:krzesniakmagda@gmail.com" title="Mail"><img src="https://github.com/beecadox/beecadox/blob/main/images/mail.svg" width=7% height=7%></a>
 
 
 ### :floppy_disk: Familiarity with:
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,regex,flask,django,vscode,cs,ts,sqlite,mongodb,mysql,matlab,unity&perline=7)](https://skillicons.dev)
+[![ProgrammingLanguages](https://skillicons.dev/icons?i=python,java,r,cs,ts&perline=5)](https://skillicons.dev)
 
+[![Frameworks](https://skillicons.dev/icons?i=pytorch,tensorflow,spring,flask,django&perline=5)](https://skillicons.dev)
 
-🌱 I’m currently learning for to use Azure, and diving deeper into the world of Python Backend Programming.
+[![DBs](https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres&perline=5)](https://skillicons.dev)
+
+[![OtherTechs](https://skillicons.dev/icons?i=aws,vscode,linux,git,docker,unity&perline=6)](https://skillicons.dev)
+
+🌱 I’m currently diving into the world of SpringBoot, EKS and DynamoDB.
