@@ -9,7 +9,7 @@ Ultimate goal: Becoming an **MLOPs Engineer**.
 
 🎓 Integrated MSc in Computer Engineering and Informatics
 
-🔭 I’m currently working as a **Java Software Engineer** in *JPMorgan Chase & Co*. .
+🔭 I’m currently working as a **DevOps and Java Software Engineer** in *JPMorgan Chase & Co*. .
 
 
 ### :mag_right: How to reach me:
@@ -28,4 +28,4 @@ Ultimate goal: Becoming an **MLOPs Engineer**.
 
 [![OtherTechs](https://skillicons.dev/icons?i=aws,vscode,linux,git,docker,unity&perline=6)](https://skillicons.dev)
 
-🌱 I’m currently diving into the world of SpringBoot, EKS and DynamoDB.
+🌱 I’m currently diving into the world of Kafka.
