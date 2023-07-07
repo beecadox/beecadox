@@ -28,4 +28,4 @@ Ultimate goal: Becoming an **MLOPs Engineer**.
 
 [![OtherTechs](https://skillicons.dev/icons?i=aws,vscode,linux,git,docker,unity&perline=6)](https://skillicons.dev)
 
-🌱 I’m currently diving into the world of Kafka.
+🌱 I’m currently diving into the world of Event Sourcing and Cucumber Testing.
