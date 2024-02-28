@@ -3,7 +3,7 @@
 
 ### :scroll: Summary
 
-A former **Machine Learning Engineer** :space_invader:, slowly but steadily starting my journey in **Software Engineering**. A Tech Enthuasiast, ready to learn new technologies [tools, frameworks, languages]. 
+A former **Machine Learning Engineer** :space_invader:, migrated to **Software Engineering** (Backend and DEVOPs). A Tech Enthuasiast, ready to learn new technologies [tools, frameworks, languages]. 
 
 Ultimate goal: Becoming an **MLOPs Engineer**.
 
@@ -28,4 +28,4 @@ Ultimate goal: Becoming an **MLOPs Engineer**.
 
 [![OtherTechs](https://skillicons.dev/icons?i=aws,vscode,linux,git,docker,unity&perline=6)](https://skillicons.dev)
 
-🌱 I’m currently diving into the world of Event Sourcing and Cucumber Testing.
+🌱 I’m currently working on getting certified in AWS and HashiCorp.
