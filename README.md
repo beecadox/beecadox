@@ -3,13 +3,13 @@
 
 ### :scroll: Summary
 
-A former **Machine Learning Engineer** :space_invader:, migrated to **Software Engineering** (Backend and DEVOPs). A Tech Enthuasiast, ready to learn new technologies [tools, frameworks, languages]. 
+A former **Machine Learning Engineer** :space_invader:, migrated to **Software Engineering** (Backend and DEVOPs) a couple of years ago. A Tech Enthuasiast, ready to learn new technologies [tools, frameworks, languages]. 
 
 Ultimate goal: Becoming an **MLOPs Engineer**.
 
 🎓 Integrated MSc in Computer Engineering and Informatics
 
-🔭 I’m currently working as a **DevOps and Java Software Engineer** in *JPMorgan Chase & Co*. .
+🔭 I’m currently working as a **Java Software Engineer with a bit of DEVOPs** in *JPMorgan Chase & Co*. .
 
 
 ### :mag_right: How to reach me:
@@ -20,12 +20,11 @@ Ultimate goal: Becoming an **MLOPs Engineer**.
 
 ### :floppy_disk: Familiarity with:
 
-[![ProgrammingLanguages](https://skillicons.dev/icons?i=python,java,r,cs,ts&perline=5)](https://skillicons.dev)
+[![ProgrammingLanguages](https://skillicons.dev/icons?i=java,ts,python,cs&perline=5)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=pytorch,tensorflow,spring,flask,django&perline=5)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,flask,django,pytorch,tensorflow,&perline=5)](https://skillicons.dev)
 
-[![DBs](https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres&perline=5)](https://skillicons.dev)
+[![DBs](https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql&perline=5)](https://skillicons.dev)
 
-[![OtherTechs](https://skillicons.dev/icons?i=aws,vscode,linux,git,docker,unity&perline=6)](https://skillicons.dev)
+[![OtherTechs](https://skillicons.dev/icons?i=aws,terraform,kubernetes,linux,git,docker,unity&perline=6)](https://skillicons.dev)
 
-🌱 I’m currently working on getting certified in AWS and HashiCorp.
